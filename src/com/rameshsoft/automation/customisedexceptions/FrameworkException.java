@@ -7,10 +7,9 @@ public class FrameworkException extends Exception
 	
 	public FrameworkException()
 	{
-		
+
 	}
 	public FrameworkException(String msg)
 	{
-		super(msg);
 	}
 }
